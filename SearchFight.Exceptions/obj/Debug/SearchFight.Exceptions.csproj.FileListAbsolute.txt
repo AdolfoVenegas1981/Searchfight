@@ -1,0 +1,6 @@
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\bin\Debug\SearchFight.Exceptions.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\bin\Debug\SearchFight.Exceptions.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\obj\Debug\SearchFight.Exceptions.csprojAssemblyReference.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\obj\Debug\SearchFight.Exceptions.csproj.CoreCompileInputs.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\obj\Debug\SearchFight.Exceptions.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Exceptions\obj\Debug\SearchFight.Exceptions.pdb

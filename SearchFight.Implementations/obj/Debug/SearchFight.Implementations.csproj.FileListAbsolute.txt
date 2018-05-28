@@ -1,0 +1,12 @@
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Implementations.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Implementations.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Exceptions.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Interfaces.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Exceptions.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\bin\Debug\SearchFight.Interfaces.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\obj\Debug\SearchFight.Implementations.csprojAssemblyReference.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\obj\Debug\SearchFight.Implementations.csproj.CoreCompileInputs.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\obj\Debug\SearchFight.Implementations.csproj.CopyComplete
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\obj\Debug\SearchFight.Implementations.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Implementations\obj\Debug\SearchFight.Implementations.pdb

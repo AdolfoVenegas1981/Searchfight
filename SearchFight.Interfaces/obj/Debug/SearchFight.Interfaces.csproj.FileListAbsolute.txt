@@ -1,0 +1,9 @@
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\bin\Debug\SearchFight.Interfaces.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\bin\Debug\SearchFight.Interfaces.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\bin\Debug\SimpleInjector.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\bin\Debug\SimpleInjector.xml
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\obj\Debug\SearchFight.Interfaces.csprojAssemblyReference.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\obj\Debug\SearchFight.Interfaces.csproj.CoreCompileInputs.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\obj\Debug\SearchFight.Interfaces.csproj.CopyComplete
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\obj\Debug\SearchFight.Interfaces.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Interfaces\obj\Debug\SearchFight.Interfaces.pdb

@@ -1,0 +1,2 @@
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Tests\obj\Debug\SearchFight.Tests.csprojAssemblyReference.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Tests\obj\Debug\SearchFight.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Dependencies.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Dependencies.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Implementations.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Interfaces.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SimpleInjector.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Exceptions.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Implementations.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Interfaces.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SimpleInjector.xml
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\bin\Debug\SearchFight.Exceptions.pdb
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\obj\Debug\SearchFight.Dependencies.csprojAssemblyReference.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\obj\Debug\SearchFight.Dependencies.csproj.CoreCompileInputs.cache
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\obj\Debug\SearchFight.Dependencies.csproj.CopyComplete
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\obj\Debug\SearchFight.Dependencies.dll
+D:\Descargas\ProgrammingChallenges-master\ProgrammingChallenges-master\Searchfight\SearchFight.Dependencies\obj\Debug\SearchFight.Dependencies.pdb
